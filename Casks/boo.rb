@@ -1,6 +1,6 @@
 cask "boo" do
   version "0.2.0"
-  sha256 "e58344ca67a0b9b26db91d056aedbb93dc59afbb398f3789fec4bd543ef9eba2"
+  sha256 "d1c6b342ddfa6fcb8213784fe4b5b2d6f57e2a660f98891afa64d5b3f133f1a0"
 
   url "https://github.com/dmallory42/boo/releases/download/v#{version}/Boo-macOS.zip"
   name "Boo"
